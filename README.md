@@ -9,6 +9,9 @@
 
 Stay tuned for updates as we build and perfect this project.
 
+[iPhone-13-PRO-kzmr00m26z154qnp3c60.lite.vusercontent.net-mb4jnksqarg0wi.webm](https://github.com/user-attachments/assets/63e162dc-96f8-4983-aa93-ea561ab667a3)
+
+
 ---
 
 ## Project Status  
@@ -86,6 +89,8 @@ We are currently not accepting contributions as this project is in its initial p
 ## Stay Updated  
 
 ✨ Follow this project for upcoming features and live demos.  
+
+
 
 ---
 
