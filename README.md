@@ -1,5 +1,5 @@
 # Company Assistant 🚀  
-**Coming Soon...**
+**Coming Soon...** 
 
 ---
 
